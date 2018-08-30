@@ -1,2 +1,2 @@
-# This is the Git test
+# This is the test
 Hello World
